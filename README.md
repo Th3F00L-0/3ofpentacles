@@ -15,11 +15,11 @@ sub for v2rayNG , ... : https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles
         
              برای hiddify :
 
-https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles/refs/heads/main/3ofpentacles.txt
+                   https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles/refs/heads/main/3ofpentacles.txt
 
                 برای v2rayNG : 
 
-https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles/refs/heads/main/configs/node7.txt
+                   https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles/refs/heads/main/configs/node7.txt
 
 * برای ساب مخصوص v2rayng خودتون پوشه config رو نگاه کنید و اخر لینک node*.txt عدد اخری که در پوشه هست رو قرار بدید . فایل به صورت دوره ای اپدیت میشود .
 
