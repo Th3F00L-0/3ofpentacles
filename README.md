@@ -12,6 +12,7 @@ sub for v2rayNG , ... : https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles
 
 -------------------------------------------------------------------------------------------------------------------------------------
 به صورت ساب از گیت هاب : 
+        
              برای hiddify :
 
 https://raw.githubusercontent.com/Th3F00L-0/3ofpentacles/refs/heads/main/3ofpentacles.txt
